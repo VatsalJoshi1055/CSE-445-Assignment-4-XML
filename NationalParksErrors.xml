@@ -20,7 +20,7 @@
     <Name>Yellowstone</Name>
     <Phone>307-344-7381</Phone>
     <Phone>307-344-2107</Phone>
-    <Address NearestAirport="Bozeman">
+    <Address>
       <Number>2</Number>
       <Street>Off Grand Loop Road</Street>
       <City>Yellowstone National Park</City>
@@ -43,7 +43,7 @@
   <NationalPark Rating="4.8">
     <Name>Zion</Name>
     <Phone>435-772-3256</Phone>
-    <Address>
+    <Address NearestAirport="Las Vegas">
       <Number>1</Number>
       <Street>Zion Park Boulevard</Street>
       <City>Springdale</City>
